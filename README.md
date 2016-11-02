@@ -3,10 +3,10 @@ Content and logistics for November Hackathon
 
 ## Schedule
 ###Briefing
-03 Nov 2016 - MAAS Powerhouse Museum, Haymarket and Online
-10:00 AND Members Pitch Ideas
-11:30 General Q&A
-12:00 Briefing Concludes
+- 03 Nov 2016 - MAAS Powerhouse Museum, Haymarket and Online
+- 10:00 AND Members Pitch Ideas
+- 11:30 General Q&A
+- 12:00 Briefing Concludes
  
 ###Onsite
 14 Nov 2016 - UNSW High St, Kensington
