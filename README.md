@@ -2,7 +2,7 @@
 Content and logistics for November Hackathon
 
 ## Schedule
-###Briefing
+###Briefing ([Recording of briefing available here](https://aka.ms/h4gbrief))
 ####03 Nov 2016 - MAAS Powerhouse Museum, Haymarket and Online
 - 10:00 AND Members Pitch Ideas
 - 11:30 General Q&A
