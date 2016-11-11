@@ -27,5 +27,5 @@
 - Mentors and consultants roaming the hack
   - Timings for some experts TBC at the opening  
 
-Please ask one of the orgaisers if there's something you need that you don't have or something you'd like included in the agenda. We're there to help you be wildly sucessful and will do whatever we can to help.
+Please ask one of the organisers if there's something you need that you don't have or something you'd like included in the agenda. We're there to help you be wildly sucessful and will do whatever we can to help.
 
