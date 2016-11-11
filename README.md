@@ -1,7 +1,8 @@
 # HackForGood
 Content and logistics for November Hackathon  
 
-*New 2016-11-11* Added [deails for the hack itself](./hack.md)  
+*New 2016-11-11* Added [Code of Conduct](./Documents/Hack 4 Good _ Code of Conduct.docx) and [Terms & Conditions](./Documents/Hack4Good Terms & Conditions.pdf)
+*New 2016-11-11* Added [details for the hack itself](./hack.md)  
 *New 2016-11-07* Added [directions to Colombo House at UNSW](./Documents/How to get to Colombo House @ UNSW.pdf)
 
 ## Schedule
