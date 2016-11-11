@@ -6,7 +6,7 @@
   - 30s from each team lead on their current plan (to help team planning)
 - 10:30 Hack begins
 - 12:30 Lunch
-- 12:30 *Expert Available* Neil King and Faezeh from Vision Australia
+- 12:30 *Expert Available* Neil King and Faezeh Seyedarabi from Vision Australia
 - 16:00 *Expert Available* Amy Whalley and Suzanne Colbert from Australian Network on Disability
 - 16:00 *Expert Available* Jane Watson from Social Ventures Australia
 - 18:00 Dinner
