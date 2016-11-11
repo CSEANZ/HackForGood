@@ -6,13 +6,18 @@
   - 30s from each team lead on their current plan (to help team planning)
 - 10:30 Hack begins
 - 12:30 Lunch
+- 12:30 *Expert Available* Neil King and Faezeh from Vision Australia
+- 16:00 *Expert Available* Amy Whalley and Suzanne Colbert from Australian Network on Disability
+- 16:00 *Expert Available* Jane Watson from Social Ventures Australia
 - 18:00 Dinner
 - 22:00 Close 
 
 ###15 Nov 2016 - UNSW High St, Kensington
 - 08:00 Open
+- 10:00 *Expert Available* Amy Whalley and Suzanne Colbert from Australian Network on Disability
+- 10:00 *Expert Available* Jane Watson from Social Ventures Australia
 - 12:30 Lunch
-- 16:00 Presentations
+- 16:00 Presentations Begin
 - 17:30 Canapés and Judges Deliberate
 - 18:00 Final 2 announced
 - 19:00 Close
