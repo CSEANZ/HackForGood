@@ -26,7 +26,7 @@
 - Trestle tables and chairs
 - Power boards
 - Connectivity (via Uni WiFi - see email for instructions on setting up)
-- 1 Monitor
+- 1 Monitor (all monitors have HDMI, some also have VGA)
 - Meals (Lunch and dinner day 1, lunch and canapés day 2)
 - Snacks and drinks throughout the hack
 - Mentors and consultants roaming the hack
