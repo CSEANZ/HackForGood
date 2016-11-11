@@ -1,6 +1,7 @@
 # HackForGood
 Content and logistics for November Hackathon  
 
+*New 2016-11-11* Added [deails for the hack itself](./hack.md)  
 *New 2016-11-07* Added [directions to Colombo House at UNSW](./Documents/How to get to Colombo House @ UNSW.pdf)
 
 ## Schedule
