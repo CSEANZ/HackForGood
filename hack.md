@@ -1,4 +1,4 @@
-n#Hackathon Logistics
+#Hackathon Logistics
 ##Schedule
 ###14 Nov 2016 - UNSW High St, Kensington
 - 10:00 Opening/Welcome
