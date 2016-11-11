@@ -17,7 +17,7 @@
 - 18:00 Final 2 announced
 - 19:00 Close
 
-##Microsoft Will Provide
+##Microsoft Will Provide (per team)
 - Trestle tables and chairs
 - Power boards
 - Connectivity (via Uni WiFi - see email for instructions on setting up)
